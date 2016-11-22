@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A561C62C1D438A3E00CDB4EB"
-               BuildableName = "24_SGDrawPad.app"
-               BlueprintName = "24_SGDrawPad"
-               ReferencedContainer = "container:24_SGDrawPad.xcodeproj">
+               BuildableName = "SimpleDrawer.app"
+               BlueprintName = "SimpleDrawer"
+               ReferencedContainer = "container:SimpleDrawer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A561C62C1D438A3E00CDB4EB"
-            BuildableName = "24_SGDrawPad.app"
-            BlueprintName = "24_SGDrawPad"
-            ReferencedContainer = "container:24_SGDrawPad.xcodeproj">
+            BuildableName = "SimpleDrawer.app"
+            BlueprintName = "SimpleDrawer"
+            ReferencedContainer = "container:SimpleDrawer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A561C62C1D438A3E00CDB4EB"
-            BuildableName = "24_SGDrawPad.app"
-            BlueprintName = "24_SGDrawPad"
-            ReferencedContainer = "container:24_SGDrawPad.xcodeproj">
+            BuildableName = "SimpleDrawer.app"
+            BlueprintName = "SimpleDrawer"
+            ReferencedContainer = "container:SimpleDrawer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A561C62C1D438A3E00CDB4EB"
-            BuildableName = "24_SGDrawPad.app"
-            BlueprintName = "24_SGDrawPad"
-            ReferencedContainer = "container:24_SGDrawPad.xcodeproj">
+            BuildableName = "SimpleDrawer.app"
+            BlueprintName = "SimpleDrawer"
+            ReferencedContainer = "container:SimpleDrawer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
